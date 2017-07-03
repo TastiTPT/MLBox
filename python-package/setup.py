@@ -65,7 +65,7 @@ test_requirements = [
 
 setup(
     name='mlbox',
-    version='0.2.2',
+    version='0.3.0',
     description="A powerful Automated Machine Learning python library  ",
     long_description=readme + '\n\n' + history,
     author="Axel ARONIO DE ROMBLAY",
