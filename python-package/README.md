@@ -3,9 +3,8 @@ MLBox, Machine Learning Box
 
 __MLBox is a powerful Automated Machine Learning python library.__
 
-_It is compatible with:_ __Python 2.7__. (Python 3.3-3.6 very soon...) | __64-bit version only__ (32-bit python is not supported)
-
-_Operating system:_ __Linux__. (MacOS & Windows very soon...)
+_It is compatible with:_ **Python 2.7 - 3.6**. & **64-bit version only** (32-bit python is not supported) <br/>
+_Operating system:_ **Linux**. (MacOS & Windows very soon...)
 
 
 ## Preparation 
@@ -41,7 +40,7 @@ Since MLBox package contains C++ source code, check that the following requireme
 
     .. code-block:: console
 
-        $ curl  -OL https://github.com/AxeldeRomblay/mlbox/tarball/master
+        $ curl  -OL https://github.com/AxeldeRomblay/mlbox/tarball/3.0-dev
 
 
 * Once you have a copy of the source, **you can install it:**
@@ -63,39 +62,4 @@ Since MLBox package contains C++ source code, check that the following requireme
 
 .. _Github repo: https://github.com/AxeldeRomblay/mlbox
 
-.. _tarball: https://github.com/AxeldeRomblay/mlbox/tarball/master
-
-
-
-## Dev version
-
-
-A 2.3 dev-version for MLBox is also available on the __branch "dev"__ ! It provides some interesting new features. Please refer to [HISTORY](https://github.com/AxeldeRomblay/MLBox/blob/master/HISTORY.rst). __It depends on sklearn-0.19.dev0 which is not a stable version at the moment.__
-
-If you want, you can have a try: 
-
-* Clone or download sklearn-0.19.dev0 from the github: https://github.com/scikit-learn/scikit-learn
-* Install sklearn-0.19.dev0: 
-
-    .. code-block:: console
-
-        $ cd scikit-learn-master/
-        $ python setup.py install 
-
-* Clone or download MLBox-2.3.dev0 from the 'dev' branch. 
-* Install MLBox-2.3.dev0: 
-
-    .. code-block:: console
-
-        $ cd python-package/
-        $ python setup.py install 
-
-    or:
-
-    .. code-block:: console
-
-        $ cd python-package/dist/
-        $ pip install *.whl
-
-
-
+.. _tarball: https://github.com/AxeldeRomblay/mlbox/tarball/3.0-dev
