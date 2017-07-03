@@ -196,4 +196,3 @@ class DriftEstimator():
         
         else:
             raise ValueError('Call the fit function before !')
-    
