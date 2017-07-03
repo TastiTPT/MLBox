@@ -10,9 +10,9 @@ __MLBox is a powerful Automated Machine Learning python library.__ It provides t
 - Prediction with models interpretation 
 
 
-__To get it installed__, please refer to [README](https://github.com/AxeldeRomblay/MLBox/blob/master/python-package/README.md)
+__To get it installed__, please refer to [README](https://github.com/AxeldeRomblay/MLBox/blob/3.0-dev/python-package/README.md)
 
-__For more details__, please refer to [docs](https://github.com/AxeldeRomblay/MLBox/tree/master/docs/documentation.md)
+__For more details__, please refer to [docs](https://github.com/AxeldeRomblay/MLBox/tree/3.0-dev/docs/documentation.md)
 
 __Experiments__ : https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/leaderboard | Rank : 85/2488
 
@@ -100,9 +100,9 @@ How to Contribute
 MLBox has been developed and used by many active community members. Your help is very valuable to make it better for everyone.
 
 - Check out [call for contributions](https://github.com/AxeldeRomblay/MLBox/labels/call-for-contributions) to see what can be improved, or open an issue if you want something.
-- Contribute to the [tests](https://github.com/AxeldeRomblay/MLBox/tree/master/tests) to make it more reliable. 
-- Contribute to the [documents](https://github.com/AxeldeRomblay/MLBox/tree/master/docs) to make it clearer for everyone.
-- Contribute to the [examples](https://github.com/AxeldeRomblay/MLBox/tree/master/examples) to share your experience with other users.
+- Contribute to the [tests](https://github.com/AxeldeRomblay/MLBox/tree/3.0-dev/tests) to make it more reliable. 
+- Contribute to the [documents](https://github.com/AxeldeRomblay/MLBox/tree/3.0-dev/docs) to make it clearer for everyone.
+- Contribute to the [examples](https://github.com/AxeldeRomblay/MLBox/tree/3.0-dev/examples) to share your experience with other users.
 - Open issue if you met problems during development.
 
-For more details, please refer to [CONTRIBUTING](https://github.com/AxeldeRomblay/MLBox/blob/master/CONTRIBUTING.rst).
+For more details, please refer to [CONTRIBUTING](https://github.com/AxeldeRomblay/MLBox/blob/3.0-dev/CONTRIBUTING.rst).
